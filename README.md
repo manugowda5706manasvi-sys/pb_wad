@@ -19,12 +19,11 @@ Python
 HTML
 Git & GitHub
 Visual Studio Code
-🎯 Purpose
+Purpose
 
 The purpose of this repository is to practice programming concepts, improve problem-solving skills, and maintain the programs completed during my coursework.
 
-👩‍💻 Author
-
+Author
 Manasvi Gowda
 
-⭐ This repository contains my learning and practice work.
+This repository contains my learning and practice work.
