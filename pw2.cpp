@@ -1,14 +1,14 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 
 int main()
 {
-    int a, b, sum;
+    int x, y, sum;
 
     cout << "Enter two numbers: ";
-    cin >> a >> b;
+    cin >> x >> y;
 
-    sum = a + b;
+    sum = x + y;
 
     cout << "Sum = " << sum;
 
