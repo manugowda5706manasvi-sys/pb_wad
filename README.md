@@ -33,3 +33,8 @@ Collaboration Log
 - Pairing Partner: [Kavaya Rai] — GitHub: "@Kavyarai-11"
 - Built Together: We worked together to build the "greet()" function.
 - What I Learned: I learned how to use GitLens to view blame annotations and identify who made changes to specific lines of code.
+
+## Projects
+
+I am working on a Campus Security project that uses technologies like Flutter, FastAPI, and facial recognition.
+This project is designed to improve campus security by monitoring and managing student and staff access.
