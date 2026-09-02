@@ -27,3 +27,9 @@ Author
 Manasvi Gowda
 
 This repository contains my learning and practice work.
+
+Collaboration Log
+
+- Pairing Partner: [Partner Name] — GitHub: "@Kavyarai-11"
+- Built Together: We worked together to build the "greet()" function.
+- What I Learned: I learned how to use GitLens to view blame annotations and identify who made changes to specific lines of code.
