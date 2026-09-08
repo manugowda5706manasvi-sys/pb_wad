@@ -1,4 +1,4 @@
-﻿pb_wad
+﻿Hi, I’m Manasvi, a Computer Science and Engineering student currently studying in my third semester. I am interested in programming, web development, databases, and learning new technologies. This repository contains my programming exercises and coursework projects and is also used to practice Git and GitHub version control workflows.
 
 A collection of programming exercises and practice programs developed as part of my Programming Lab / Web Application Development coursework.
 
